@@ -2,4 +2,4 @@
 
 Don't let Xinnie da pooh get you trapped,
 
-Check out this CRUD app in MEAN stack
+Check out this CRUD app in MEAN stacc
